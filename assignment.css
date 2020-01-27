@@ -1,0 +1,19 @@
+.the-start{
+background-color: aqua;    
+}
+
+.progression{
+    background-image: url('computer-2.jpg');
+    background-size: cover;
+    padding-top: 40px;
+    padding-bottom: 40px;
+   color: red;
+}
+
+.today{
+    background-image: url('computer-1.jpg');
+    background-size: cover;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: red
+}
